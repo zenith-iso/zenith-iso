@@ -16,4 +16,4 @@
 
 ## check these out :)
 
-* **[🎰YTRoulette](https://zenith-iso.github.io/YTRoulette/)** -- spin a wheel, get some obscure youtube videos. 1 html file :)
+* **[🎰YTRoulette](https://github.com/zenith-iso/YTRoulette)** -- spin a wheel, get some obscure youtube videos. 1 html file :)
