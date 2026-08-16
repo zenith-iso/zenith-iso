@@ -13,3 +13,7 @@
 * 🔨 between projects..?
 * 🧠 trying to understand git
 * 👁️ netstalking
+
+## check these out :)
+
+* **[🎰YTRoulette](https://zenith-iso.github.io/YTRoulette/)** -- spin a wheel, get some obscure youtube videos. 1 html file :)
