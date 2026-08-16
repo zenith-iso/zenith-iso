@@ -1,16 +1,14 @@
-## Hey, im zen. 👋
+# heya, im zen. 👾
 
-<!--
-**zenith-iso/zenith-iso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🐍epic programmer and okay pentester💻
 
-Here are some ideas to get you started:
+## stuff i use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* python 🐍
+* linux 🐧 (arch btw)
+* git (?)
+
+## currently doing
+
+* 🔨 between projects..?
+* 🧠 trying to understand git
