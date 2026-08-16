@@ -12,3 +12,4 @@
 
 * 🔨 between projects..?
 * 🧠 trying to understand git
+* 👁️ netstalking
