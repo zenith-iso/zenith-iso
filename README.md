@@ -13,6 +13,7 @@
 * 🔨 between projects..?
 * 🧠 trying to understand git
 * 👁️ netstalking
+* 🌀 coming soon.. see [here](https://pastebin.com/u2bD4Yrc)
 
 ## check these out :)
 
