@@ -18,3 +18,4 @@
 ## check these out :)
 
 * **[🎰YTRoulette](https://github.com/zenith-iso/YTRoulette)** -- spin a wheel, get some obscure youtube videos. 1 html file :)
+* **☀️[Awake](https://github.com/zenith-iso/awake)** -- Worldwide IP scanner & Bruteforcer at Port ∞
