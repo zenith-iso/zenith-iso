@@ -11,9 +11,8 @@
 ## currently doing
 
 * 🔨 between projects..?
-* 🧠 trying to understand git
+* 🧠 learning git
 * 👁️ netstalking
-* 🌀 coming soon.. see [here](https://pastebin.com/u2bD4Yrc)
 
 ## check these out :)
 
